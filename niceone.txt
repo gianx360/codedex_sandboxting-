@@ -1,0 +1,1 @@
+so, theres something i thought of, so if im on a branch, which contains less information, less documents, ect that another branch in the same repository, and i merge the heavyer with the lighter branch, does the heavier loose wait without having gone though a diet???
